@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_0b0cabc7045ec459c7ffb1c6cc6173455cdfbd13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_3d1c7e296602f7b80162ab94daf0754cd5335378\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26d99e12a40f6355397914940aeb0f3d3f109d67">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1c78a2675b74b82c8137e0553fb568aee3d6ff8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_463fa706bb75cb3c8f6c0657ecb52b9a5f3afe99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_e1c9d224979197f0beefefeb40a9ed15f99bbd7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d20894502de00defb4f26cb72773797a6594e414">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7bb06e9476b2da38c077d126b771a51f4b60af64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_79562e5db4f07f1d78e20573f8b30469a18a5184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_a62cdb19486f2bd594ad401cf8f7f9cc97bea156\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_74ed0fd169d4dc89509c30a6681ebdd4dd8c5185\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\HP PAVILION\AndroidStudioProjects\ShootingGameMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2a4df02e35f7b1e4b7d908c185b832740b147e4b\classes.dex" />
+    </item>
+
+</items>
